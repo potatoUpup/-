@@ -1,0 +1,200 @@
+C:\Users\Administrator\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Administrator\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.manager.resources
+C:\Users\Administrator\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.stu_message.resources
+C:\Users\Administrator\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.im_stu_account.resources
+C:\Users\Administrator\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.im_tea_account.resources
+C:\Users\Administrator\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.notice.resources
+C:\Users\Administrator\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.student.resources
+C:\Users\Administrator\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.hand_issue.resources
+C:\Users\Administrator\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.tea_message.resources
+C:\Users\Administrator\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.choose_stu.resources
+C:\Users\Administrator\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.teacher.resources
+C:\Users\Administrator\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.stu_message_edit.resources
+C:\Users\Administrator\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.edit_password.resources
+C:\Users\Administrator\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.tea_issue.resources
+C:\Users\Administrator\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.is_choose.resources
+C:\Users\Administrator\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.my_will.resources
+C:\Users\Administrator\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.my_message.resources
+C:\Users\Administrator\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.tea_message_edit.resources
+C:\Users\Administrator\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.no_choose.resources
+C:\Users\Administrator\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.first_page.resources
+C:\Users\Administrator\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.login.resources
+C:\Users\Y\Desktop\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Y\Desktop\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Y\Desktop\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Y\Desktop\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Y\Desktop\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Y\Desktop\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.login.resources
+C:\Users\Y\Desktop\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Y\Desktop\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.manager.resources
+C:\Users\Y\Desktop\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.stu_message.resources
+C:\Users\Y\Desktop\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.im_stu_account.resources
+C:\Users\Y\Desktop\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.im_tea_account.resources
+C:\Users\Y\Desktop\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.notice.resources
+C:\Users\Y\Desktop\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Y\Desktop\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.student.resources
+C:\Users\Y\Desktop\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.hand_issue.resources
+C:\Users\Y\Desktop\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.tea_message.resources
+C:\Users\Y\Desktop\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.choose_stu.resources
+C:\Users\Y\Desktop\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.teacher.resources
+C:\Users\Y\Desktop\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.stu_message_edit.resources
+C:\Users\Y\Desktop\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.edit_password.resources
+C:\Users\Y\Desktop\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.tea_issue.resources
+C:\Users\Y\Desktop\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.is_choose.resources
+C:\Users\Y\Desktop\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.my_will.resources
+C:\Users\Y\Desktop\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.my_message.resources
+C:\Users\Y\Desktop\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.tea_message_edit.resources
+C:\Users\Y\Desktop\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.no_choose.resources
+C:\Users\Y\Desktop\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.first_page.resources
+C:\Users\Y\Desktop\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\yzq\Desktop\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\yzq\Desktop\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\yzq\Desktop\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\yzq\Desktop\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\yzq\Desktop\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\yzq\Desktop\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.login.resources
+C:\Users\yzq\Desktop\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\yzq\Desktop\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.manager.resources
+C:\Users\yzq\Desktop\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.stu_message.resources
+C:\Users\yzq\Desktop\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.im_stu_account.resources
+C:\Users\yzq\Desktop\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.im_tea_account.resources
+C:\Users\yzq\Desktop\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.notice.resources
+C:\Users\yzq\Desktop\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\yzq\Desktop\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.student.resources
+C:\Users\yzq\Desktop\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.hand_issue.resources
+C:\Users\yzq\Desktop\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.tea_message.resources
+C:\Users\yzq\Desktop\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.choose_stu.resources
+C:\Users\yzq\Desktop\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.teacher.resources
+C:\Users\yzq\Desktop\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.stu_message_edit.resources
+C:\Users\yzq\Desktop\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.edit_password.resources
+C:\Users\yzq\Desktop\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.tea_issue.resources
+C:\Users\yzq\Desktop\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.is_choose.resources
+C:\Users\yzq\Desktop\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.my_will.resources
+C:\Users\yzq\Desktop\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.my_message.resources
+C:\Users\yzq\Desktop\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.tea_message_edit.resources
+C:\Users\yzq\Desktop\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.no_choose.resources
+C:\Users\yzq\Desktop\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.first_page.resources
+C:\Users\yzq\Desktop\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\新建文件夹\WeChat Files\CXL1697860175\FileStorage\File\2020-03\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+F:\新建文件夹\WeChat Files\CXL1697860175\FileStorage\File\2020-03\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+F:\新建文件夹\WeChat Files\CXL1697860175\FileStorage\File\2020-03\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\新建文件夹\WeChat Files\CXL1697860175\FileStorage\File\2020-03\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.choosegroup.resources
+F:\新建文件夹\WeChat Files\CXL1697860175\FileStorage\File\2020-03\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.login.resources
+F:\新建文件夹\WeChat Files\CXL1697860175\FileStorage\File\2020-03\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+F:\新建文件夹\WeChat Files\CXL1697860175\FileStorage\File\2020-03\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.group.resources
+F:\新建文件夹\WeChat Files\CXL1697860175\FileStorage\File\2020-03\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.manager.resources
+F:\新建文件夹\WeChat Files\CXL1697860175\FileStorage\File\2020-03\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.stu_message.resources
+F:\新建文件夹\WeChat Files\CXL1697860175\FileStorage\File\2020-03\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.im_stu_account.resources
+F:\新建文件夹\WeChat Files\CXL1697860175\FileStorage\File\2020-03\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.im_tea_account.resources
+F:\新建文件夹\WeChat Files\CXL1697860175\FileStorage\File\2020-03\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.notice.resources
+F:\新建文件夹\WeChat Files\CXL1697860175\FileStorage\File\2020-03\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\新建文件夹\WeChat Files\CXL1697860175\FileStorage\File\2020-03\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.student.resources
+F:\新建文件夹\WeChat Files\CXL1697860175\FileStorage\File\2020-03\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.hand_issue.resources
+F:\新建文件夹\WeChat Files\CXL1697860175\FileStorage\File\2020-03\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.tea_message.resources
+F:\新建文件夹\WeChat Files\CXL1697860175\FileStorage\File\2020-03\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.choose_stu.resources
+F:\新建文件夹\WeChat Files\CXL1697860175\FileStorage\File\2020-03\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.teacher.resources
+F:\新建文件夹\WeChat Files\CXL1697860175\FileStorage\File\2020-03\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.stu_message_edit.resources
+F:\新建文件夹\WeChat Files\CXL1697860175\FileStorage\File\2020-03\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.edit_password.resources
+F:\新建文件夹\WeChat Files\CXL1697860175\FileStorage\File\2020-03\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.tea_issue.resources
+F:\新建文件夹\WeChat Files\CXL1697860175\FileStorage\File\2020-03\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.is_choose.resources
+F:\新建文件夹\WeChat Files\CXL1697860175\FileStorage\File\2020-03\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.my_will.resources
+F:\新建文件夹\WeChat Files\CXL1697860175\FileStorage\File\2020-03\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.my_message.resources
+F:\新建文件夹\WeChat Files\CXL1697860175\FileStorage\File\2020-03\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.tea_message_edit.resources
+F:\新建文件夹\WeChat Files\CXL1697860175\FileStorage\File\2020-03\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.no_choose.resources
+F:\新建文件夹\WeChat Files\CXL1697860175\FileStorage\File\2020-03\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.first_page.resources
+F:\新建文件夹\WeChat Files\CXL1697860175\FileStorage\File\2020-03\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\新建文件夹\WeChat Files\CXL1697860175\FileStorage\File\2020-03\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\新建文件夹\WeChat Files\CXL1697860175\FileStorage\File\2020-03\WindowsFormsApplication1(2)(1)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\yzq\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\yzq\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\yzq\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\yzq\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\yzq\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\yzq\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.choosegroup.resources
+C:\Users\yzq\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.login.resources
+C:\Users\yzq\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\yzq\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.group.resources
+C:\Users\yzq\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.manager.resources
+C:\Users\yzq\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.stu_message.resources
+C:\Users\yzq\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.im_stu_account.resources
+C:\Users\yzq\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.im_tea_account.resources
+C:\Users\yzq\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.notice.resources
+C:\Users\yzq\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\yzq\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.student.resources
+C:\Users\yzq\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.hand_issue.resources
+C:\Users\yzq\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.tea_message.resources
+C:\Users\yzq\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.choose_stu.resources
+C:\Users\yzq\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.teacher.resources
+C:\Users\yzq\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.stu_message_edit.resources
+C:\Users\yzq\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.edit_password.resources
+C:\Users\yzq\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.tea_issue.resources
+C:\Users\yzq\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.is_choose.resources
+C:\Users\yzq\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.my_will.resources
+C:\Users\yzq\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.my_message.resources
+C:\Users\yzq\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.tea_message_edit.resources
+C:\Users\yzq\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.no_choose.resources
+C:\Users\yzq\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.first_page.resources
+C:\Users\yzq\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\yzq\Desktop\WindowsFormsApplication2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\yzq\Desktop\WindowsFormsApplication2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\yzq\Desktop\WindowsFormsApplication2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\yzq\Desktop\WindowsFormsApplication2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\yzq\Desktop\WindowsFormsApplication2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.choosegroup.resources
+C:\Users\yzq\Desktop\WindowsFormsApplication2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.login.resources
+C:\Users\yzq\Desktop\WindowsFormsApplication2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\yzq\Desktop\WindowsFormsApplication2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.group.resources
+C:\Users\yzq\Desktop\WindowsFormsApplication2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.manager.resources
+C:\Users\yzq\Desktop\WindowsFormsApplication2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.stu_message.resources
+C:\Users\yzq\Desktop\WindowsFormsApplication2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.im_stu_account.resources
+C:\Users\yzq\Desktop\WindowsFormsApplication2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.im_tea_account.resources
+C:\Users\yzq\Desktop\WindowsFormsApplication2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.notice.resources
+C:\Users\yzq\Desktop\WindowsFormsApplication2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\yzq\Desktop\WindowsFormsApplication2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.student.resources
+C:\Users\yzq\Desktop\WindowsFormsApplication2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.hand_issue.resources
+C:\Users\yzq\Desktop\WindowsFormsApplication2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.tea_message.resources
+C:\Users\yzq\Desktop\WindowsFormsApplication2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.choose_stu.resources
+C:\Users\yzq\Desktop\WindowsFormsApplication2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.teacher.resources
+C:\Users\yzq\Desktop\WindowsFormsApplication2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.stu_message_edit.resources
+C:\Users\yzq\Desktop\WindowsFormsApplication2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.edit_password.resources
+C:\Users\yzq\Desktop\WindowsFormsApplication2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.tea_issue.resources
+C:\Users\yzq\Desktop\WindowsFormsApplication2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.is_choose.resources
+C:\Users\yzq\Desktop\WindowsFormsApplication2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.my_will.resources
+C:\Users\yzq\Desktop\WindowsFormsApplication2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.my_message.resources
+C:\Users\yzq\Desktop\WindowsFormsApplication2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.tea_message_edit.resources
+C:\Users\yzq\Desktop\WindowsFormsApplication2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.no_choose.resources
+C:\Users\yzq\Desktop\WindowsFormsApplication2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.first_page.resources
+C:\Users\yzq\Desktop\WindowsFormsApplication2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\yzq\Desktop\WindowsFormsApplication2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\yzq\Desktop\管理员\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\yzq\Desktop\管理员\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\yzq\Desktop\管理员\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\yzq\Desktop\管理员\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.choosegroup.resources
+C:\Users\yzq\Desktop\管理员\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.login.resources
+C:\Users\yzq\Desktop\管理员\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\yzq\Desktop\管理员\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.manager.resources
+C:\Users\yzq\Desktop\管理员\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.stu_message.resources
+C:\Users\yzq\Desktop\管理员\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.im_stu_account.resources
+C:\Users\yzq\Desktop\管理员\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.im_tea_account.resources
+C:\Users\yzq\Desktop\管理员\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.notice.resources
+C:\Users\yzq\Desktop\管理员\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\yzq\Desktop\管理员\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.hand_issue.resources
+C:\Users\yzq\Desktop\管理员\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.tea_message.resources
+C:\Users\yzq\Desktop\管理员\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.stu_message_edit.resources
+C:\Users\yzq\Desktop\管理员\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.edit_password.resources
+C:\Users\yzq\Desktop\管理员\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.tea_issue.resources
+C:\Users\yzq\Desktop\管理员\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.is_choose.resources
+C:\Users\yzq\Desktop\管理员\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.my_will.resources
+C:\Users\yzq\Desktop\管理员\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.my_message.resources
+C:\Users\yzq\Desktop\管理员\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.tea_message_edit.resources
+C:\Users\yzq\Desktop\管理员\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.no_choose.resources
+C:\Users\yzq\Desktop\管理员\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.first_page.resources
+C:\Users\yzq\Desktop\管理员\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\yzq\Desktop\管理员\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\yzq\Desktop\管理员\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb

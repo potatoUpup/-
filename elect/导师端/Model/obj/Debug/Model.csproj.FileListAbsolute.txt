@@ -1,0 +1,17 @@
+C:\Users\yzq\Desktop\导师端\Model\bin\Debug\Model.dll
+C:\Users\yzq\Desktop\导师端\Model\bin\Debug\Model.pdb
+C:\Users\yzq\Desktop\导师端\Model\obj\Debug\Model.dll
+C:\Users\yzq\Desktop\导师端\Model\obj\Debug\Model.pdb
+C:\Users\yzq\Desktop\all(6月14日)合并版\导师端（三层架构版）\Model\bin\Debug\Model.dll
+C:\Users\yzq\Desktop\all(6月14日)合并版\导师端（三层架构版）\Model\bin\Debug\Model.pdb
+C:\Users\yzq\Desktop\all(6月14日)合并版\导师端（三层架构版）\Model\obj\Debug\Model.dll
+C:\Users\yzq\Desktop\all(6月14日)合并版\导师端（三层架构版）\Model\obj\Debug\Model.pdb
+C:\Users\yzq\Desktop\毕业系统(6月20日)\导师端\Model\bin\Debug\Model.dll
+C:\Users\yzq\Desktop\毕业系统(6月20日)\导师端\Model\bin\Debug\Model.pdb
+C:\Users\yzq\Desktop\毕业系统(6月20日)\导师端\Model\obj\Debug\Model.dll
+C:\Users\yzq\Desktop\毕业系统(6月20日)\导师端\Model\obj\Debug\Model.pdb
+C:\Users\CXL\Desktop\毕业设计双选系统（最终版）\导师端\Model\bin\Debug\Model.dll
+C:\Users\CXL\Desktop\毕业设计双选系统（最终版）\导师端\Model\bin\Debug\Model.pdb
+C:\Users\CXL\Desktop\毕业设计双选系统（最终版）\导师端\Model\obj\Debug\Model.dll
+C:\Users\CXL\Desktop\毕业设计双选系统（最终版）\导师端\Model\obj\Debug\Model.pdb
+C:\Users\CXL\Desktop\毕业设计双选系统（最终版）\导师端\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache

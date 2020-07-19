@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A9B02740-7D59-4419-BB9E-F4C6293E8D55}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>student</RootNamespace>
+    <AssemblyName>student</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="edit_password.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="edit_password.Designer.cs">
+      <DependentUpon>edit_password.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.Designer.cs">
+      <DependentUpon>login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="editgroup.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="editgroup.Designer.cs">
+      <DependentUpon>editgroup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="studentmain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="studentmain.Designer.cs">
+      <DependentUpon>studentmain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mygroup.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="mygroup.Designer.cs">
+      <DependentUpon>mygroup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="my_will.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="my_will.Designer.cs">
+      <DependentUpon>my_will.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SqlDbHelper.cs" />
+    <Compile Include="stu_message.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="stu_message.Designer.cs">
+      <DependentUpon>stu_message.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tea_issue.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="tea_issue.Designer.cs">
+      <DependentUpon>tea_issue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tea_show.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="tea_show.Designer.cs">
+      <DependentUpon>tea_show.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserHelper.cs" />
+    <EmbeddedResource Include="edit_password.resx">
+      <DependentUpon>edit_password.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <DependentUpon>login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="editgroup.resx">
+      <DependentUpon>editgroup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="studentmain.resx">
+      <DependentUpon>studentmain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mygroup.resx">
+      <DependentUpon>mygroup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="my_will.resx">
+      <DependentUpon>my_will.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="stu_message.resx">
+      <DependentUpon>stu_message.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tea_issue.resx">
+      <DependentUpon>tea_issue.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tea_show.resx">
+      <DependentUpon>tea_show.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BLL\BLL.csproj">
+      <Project>{04d2445e-ad5c-4d11-ae59-63478d9f8443}</Project>
+      <Name>BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Model\Model.csproj">
+      <Project>{1484dce7-5d3e-4e85-9889-13ad39ee2199}</Project>
+      <Name>Model</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

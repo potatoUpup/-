@@ -1,0 +1,233 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{85E3EB0A-5A2E-4EC5-81B0-3D3BD3A45036}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WindowsFormsApplication1</RootNamespace>
+    <AssemblyName>WindowsFormsApplication1</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="NPOI, Version=1.2.4.0, Culture=neutral, PublicKeyToken=0df73ec7942b34e1, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\NPOI.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="edit_stu_message.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="edit_stu_message.Designer.cs">
+      <DependentUpon>edit_stu_message.cs</DependentUpon>
+    </Compile>
+    <Compile Include="edit_tea_message.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="edit_tea_message.Designer.cs">
+      <DependentUpon>edit_tea_message.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.Designer.cs">
+      <DependentUpon>login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="manager_main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="manager_main.Designer.cs">
+      <DependentUpon>manager_main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="noteam.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="noteam.Designer.cs">
+      <DependentUpon>noteam.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SQLDBhelper.cs" />
+    <Compile Include="im_stu_account.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="im_stu_account.Designer.cs">
+      <DependentUpon>im_stu_account.cs</DependentUpon>
+    </Compile>
+    <Compile Include="im_tea_account.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="im_tea_account.Designer.cs">
+      <DependentUpon>im_tea_account.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="is_choose.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="is_choose.Designer.cs">
+      <DependentUpon>is_choose.cs</DependentUpon>
+    </Compile>
+    <Compile Include="no_choose.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="no_choose.Designer.cs">
+      <DependentUpon>no_choose.cs</DependentUpon>
+    </Compile>
+    <Compile Include="stu_message.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="stu_message.Designer.cs">
+      <DependentUpon>stu_message.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tea_message.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="tea_message.Designer.cs">
+      <DependentUpon>tea_message.cs</DependentUpon>
+    </Compile>
+    <Compile Include="time.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="time.Designer.cs">
+      <DependentUpon>time.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserHelper.cs" />
+    <EmbeddedResource Include="edit_stu_message.resx">
+      <DependentUpon>edit_stu_message.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="edit_tea_message.resx">
+      <DependentUpon>edit_tea_message.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <DependentUpon>login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="im_stu_account.resx">
+      <DependentUpon>im_stu_account.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="im_tea_account.resx">
+      <DependentUpon>im_tea_account.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="manager_main.resx">
+      <DependentUpon>manager_main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="noteam.resx">
+      <DependentUpon>noteam.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="is_choose.resx">
+      <DependentUpon>is_choose.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="no_choose.resx">
+      <DependentUpon>no_choose.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="stu_message.resx">
+      <DependentUpon>stu_message.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tea_message.resx">
+      <DependentUpon>tea_message.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="time.resx">
+      <DependentUpon>time.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BLL\BLL.csproj">
+      <Project>{2ffed8f0-844d-43af-ac5b-42ca1d095703}</Project>
+      <Name>BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Model\Model.csproj">
+      <Project>{48b27179-d399-4b2b-a714-0d2b6e4f6b75}</Project>
+      <Name>Model</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
